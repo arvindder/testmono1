@@ -1,0 +1,3 @@
+[submodule "child/testmono1child"]
+	path = child/testmono1child
+	url = https://github.com/arvindder/testmono1child.git
